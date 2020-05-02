@@ -1,7 +1,8 @@
 # BobaBlox Library Documentation  (Boba Cart for Fiona Fu)
 
 Version: 2.0  
-Author: Chingun Erdene-Ochir
+Author: Chingun Erdene-Ochir 
+
 Date: 02/05/2020
 
 BobaBlox is an Arduino library that makes it easier to sketch code for basic hardware components. I've found that in teaching introductory Arduino workshops, that the repetitiveness of typing numerous commands just to make an LED blink   can get in the way of learning overall programming concepts. So, I developed BobaBlox. It was initially designed to work with the Adafruit Trinket, but works equally well on standard Arduino models.
